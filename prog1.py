@@ -1,3 +1,1 @@
-x = int(input("enter first number"))
-y = int(input("enter secont number"))
-print("the total is :" , x+y )
+print("this file has been changed") 
